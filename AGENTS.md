@@ -1,5 +1,7 @@
 # Codex MCP Server — Agent Onboarding
 
+> Mandatory first read: [for-ai/README.md](./for-ai/README.md). It is the YAGNI control-plane router; then follow the project-specific rules below.
+
 MCP server local giống Codex: đọc/ghi file, chạy lệnh, git. Dùng với ChatGPT Developer Mode hoặc bất kỳ MCP client nào.
 
 ## Lần đầu kết nối — gọi ngay 2 tool này
